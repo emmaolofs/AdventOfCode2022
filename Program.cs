@@ -1,8 +1,9 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace AdventOfCode2022
 {
@@ -10,6 +11,8 @@ namespace AdventOfCode2022
     {
         static void Main(string[] args)
         {
+            
         }
+       
     }
 }
